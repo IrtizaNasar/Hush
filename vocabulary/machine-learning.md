@@ -1,0 +1,454 @@
+# Machine learning
+
+> Terms for teaching machine learning in creative computing. To use them, open Settings › Vocabulary in Hush and import this file.
+> One term per line, written as it should appear in a transcript.
+
+## Foundations
+- machine learning
+- artificial intelligence
+- deep learning
+- supervised learning
+- unsupervised learning
+- self-supervised learning
+- semi-supervised learning
+- reinforcement learning
+- transfer learning
+- few-shot learning
+- zero-shot learning
+- active learning
+- federated learning
+- representation learning
+- feature engineering
+- feature extraction
+- feature vector
+- training data
+- training set
+- validation set
+- test set
+- ground truth
+- labelled data
+- annotation
+- data augmentation
+- synthetic data
+- data pipeline
+- inference
+- model weights
+- hyperparameter
+- neuron
+- perceptron
+- multilayer perceptron
+- activation function
+- loss function
+- cost function
+- objective function
+- optimiser
+- classification
+- regression
+- clustering
+- dimensionality reduction
+- anomaly detection
+
+## Classic models
+- linear regression
+- logistic regression
+- decision tree
+- random forest
+- gradient boosting
+- XGBoost
+- LightGBM
+- support vector machine
+- SVM
+- k-nearest neighbours
+- k-NN
+- k-means
+- naive Bayes
+- principal component analysis
+- PCA
+- t-SNE
+- UMAP
+- hidden Markov model
+- Gaussian mixture model
+- DBSCAN
+- hierarchical clustering
+
+## Neural networks
+- neural network
+- artificial neural network
+- convolutional neural network
+- CNN
+- recurrent neural network
+- RNN
+- long short-term memory
+- LSTM
+- gated recurrent unit
+- GRU
+- autoencoder
+- variational autoencoder
+- VAE
+- generative adversarial network
+- GAN
+- generator
+- discriminator
+- transformer
+- attention
+- self-attention
+- multi-head attention
+- cross-attention
+- positional encoding
+- encoder
+- decoder
+- encoder-decoder
+- residual connection
+- skip connection
+- layer normalisation
+- batch normalisation
+- dropout
+- convolution
+- kernel
+- stride
+- padding
+- pooling
+- max pooling
+- fully connected layer
+- embedding
+- latent space
+- latent vector
+- softmax
+- sigmoid
+- tanh
+- ReLU
+- GELU
+- Leaky ReLU
+- logits
+- one-hot encoding
+- tokeniser
+- tokenisation
+- token
+- byte-pair encoding
+- BPE
+- context window
+- sequence-to-sequence
+- ResNet
+- U-Net
+- VGG
+- AlexNet
+- Inception
+- MobileNet
+- EfficientNet
+- YOLO
+- Vision Transformer
+- ViT
+- BERT
+- GPT
+- T5
+- CLIP
+- Whisper
+- Llama
+- Mistral
+- Gemma
+- Qwen
+- DeepSeek
+- Claude
+- Gemini
+- ChatGPT
+
+## Generative models
+- generative AI
+- diffusion model
+- latent diffusion
+- denoising
+- noise schedule
+- sampler
+- classifier-free guidance
+- Stable Diffusion
+- SDXL
+- DALL·E
+- Midjourney
+- Imagen
+- Sora
+- ControlNet
+- LoRA
+- DreamBooth
+- textual inversion
+- inpainting
+- outpainting
+- img2img
+- text-to-image
+- text-to-video
+- text-to-speech
+- speech-to-text
+- StyleGAN
+- CycleGAN
+- pix2pix
+- neural style transfer
+- DeepDream
+- NeRF
+- neural radiance field
+- Gaussian splatting
+
+## Training
+- backpropagation
+- gradient descent
+- stochastic gradient descent
+- SGD
+- mini-batch
+- batch size
+- epoch
+- iteration
+- learning rate
+- learning rate schedule
+- warm-up
+- momentum
+- Adam
+- AdamW
+- RMSprop
+- weight decay
+- regularisation
+- L1 regularisation
+- L2 regularisation
+- early stopping
+- overfitting
+- underfitting
+- generalisation
+- bias-variance trade-off
+- vanishing gradient
+- exploding gradient
+- gradient clipping
+- cross-entropy loss
+- mean squared error
+- MSE
+- mean absolute error
+- contrastive loss
+- fine-tuning
+- pre-training
+- checkpoint
+- knowledge distillation
+- quantisation
+- pruning
+- mixed precision
+- GPU
+- TPU
+- CUDA
+- Metal
+- Apple silicon
+- Neural Engine
+- VRAM
+
+## Evaluation
+- accuracy
+- precision
+- recall
+- F1 score
+- confusion matrix
+- true positive
+- false positive
+- true negative
+- false negative
+- ROC curve
+- AUC
+- mean average precision
+- intersection over union
+- IoU
+- BLEU
+- ROUGE
+- perplexity
+- word error rate
+- WER
+- cross-validation
+- k-fold cross-validation
+- baseline
+- benchmark
+- ablation study
+- leaderboard
+- data leakage
+
+## Language models
+- large language model
+- LLM
+- foundation model
+- prompt
+- prompt engineering
+- system prompt
+- few-shot prompting
+- chain-of-thought
+- in-context learning
+- temperature
+- top-k sampling
+- top-p sampling
+- nucleus sampling
+- beam search
+- greedy decoding
+- hallucination
+- grounding
+- retrieval-augmented generation
+- RAG
+- vector database
+- embedding model
+- cosine similarity
+- semantic search
+- instruction tuning
+- RLHF
+- reinforcement learning from human feedback
+- DPO
+- reward model
+- alignment
+- red teaming
+- jailbreak
+- guardrails
+- AI agent
+- tool use
+- function calling
+- multimodal
+- vision-language model
+- GGUF
+- llama.cpp
+- Ollama
+- LM Studio
+- open weights
+
+## Tools and libraries
+- Python
+- Jupyter
+- Jupyter Notebook
+- Google Colab
+- NumPy
+- pandas
+- Matplotlib
+- seaborn
+- scikit-learn
+- SciPy
+- PyTorch
+- TensorFlow
+- Keras
+- JAX
+- ONNX
+- Core ML
+- Create ML
+- MLX
+- TensorFlow.js
+- TensorFlow Lite
+- LiteRT
+- ml5.js
+- Teachable Machine
+- Wekinator
+- RunwayML
+- ComfyUI
+- Automatic1111
+- Gradio
+- Streamlit
+- Hugging Face
+- Transformers
+- Diffusers
+- spaCy
+- NLTK
+- OpenCV
+- MediaPipe
+- YOLOv8
+- Weights & Biases
+- TensorBoard
+- Kaggle
+- Anaconda
+- conda
+- pip
+- virtual environment
+- Docker
+
+## Vision and sound
+- computer vision
+- image classification
+- object detection
+- semantic segmentation
+- instance segmentation
+- pose estimation
+- PoseNet
+- MoveNet
+- BodyPix
+- FaceMesh
+- face detection
+- hand tracking
+- HandPose
+- optical flow
+- feature map
+- bounding box
+- keypoint
+- optical character recognition
+- OCR
+- speech recognition
+- speaker diarisation
+- spectrogram
+- mel spectrogram
+- MFCC
+- audio classification
+- sound classification
+- music generation
+- voice cloning
+
+## Datasets
+- MNIST
+- Fashion-MNIST
+- CIFAR-10
+- CIFAR-100
+- ImageNet
+- COCO
+- LAION-5B
+- Common Crawl
+- The Pile
+- Open Images
+- LibriSpeech
+- Common Voice
+- WikiText
+
+## Ethics and society
+- algorithmic bias
+- fairness
+- explainability
+- interpretability
+- explainable AI
+- XAI
+- transparency
+- accountability
+- data provenance
+- consent
+- privacy
+- differential privacy
+- surveillance
+- deepfake
+- misinformation
+- copyright
+- fair use
+- EU AI Act
+- model collapse
+- carbon footprint
+- data labelling
+- crowdsourcing
+- Amazon Mechanical Turk
+- stochastic parrots
+- AI safety
+- AI alignment
+- responsible AI
+
+## People
+- Alan Turing
+- Geoffrey Hinton
+- Yann LeCun
+- Yoshua Bengio
+- Fei-Fei Li
+- Andrew Ng
+- Ian Goodfellow
+- Andrej Karpathy
+- Demis Hassabis
+- Ilya Sutskever
+- Timnit Gebru
+- Joy Buolamwini
+- Kate Crawford
+- Rebecca Fiebrink
+- Memo Akten
+- Refik Anadol
+- Mario Klingemann
+- Anna Ridler
+- Holly Herndon
+- Sougwen Chung
+- Gene Kogan
+- Jake Elwes
+- Helena Sarin
+- Trevor Paglen

@@ -1,0 +1,334 @@
+# Creative coding
+
+> Terms for teaching creative coding: tools, the p5.js and Processing vocabulary, techniques, communities and artists. To use them, open Settings › Vocabulary in Hush and import this file.
+> One term per line, written as it should appear in a transcript.
+
+## Tools
+- p5.js
+- p5.js Web Editor
+- Processing
+- Processing.py
+- openFrameworks
+- Cinder
+- Nannou
+- Three.js
+- Babylon.js
+- PixiJS
+- Paper.js
+- D3.js
+- Tone.js
+- Web Audio API
+- Canvas API
+- HTML canvas
+- SVG
+- WebGL
+- WebGL2
+- WebGPU
+- GLSL
+- HLSL
+- WGSL
+- Shadertoy
+- The Book of Shaders
+- KodeLife
+- TouchDesigner
+- Max
+- Max/MSP
+- Max for Live
+- Jitter
+- Pure Data
+- vvvv
+- Cables.gl
+- Notch
+- Unreal Engine
+- Unity
+- Godot
+- Blender
+- Geometry Nodes
+- Houdini
+- Cinema 4D
+- Resolume
+- MadMapper
+- Millumin
+- Isadora
+- QLab
+- Ableton Live
+- SuperCollider
+- Sonic Pi
+- TidalCycles
+- Strudel
+- Hydra
+- Orca
+- ml5.js
+- MediaPipe
+- OpenCV
+- Runway
+- ComfyUI
+- OpenProcessing
+- CodePen
+- Glitch
+- GitHub Pages
+- Visual Studio Code
+- Live Server
+- Node.js
+- npm
+- Vite
+- JavaScript
+- TypeScript
+- Java
+- C++
+- Rust
+- Python
+- Spout
+- Syphon
+- NDI
+- OSC
+- Matter.js
+- Box2D
+
+## p5.js and Processing
+- setup()
+- draw()
+- preload()
+- createCanvas()
+- background()
+- fill()
+- noFill()
+- stroke()
+- noStroke()
+- strokeWeight()
+- ellipse()
+- circle()
+- rect()
+- line()
+- point()
+- triangle()
+- quad()
+- arc()
+- beginShape()
+- endShape()
+- vertex()
+- curveVertex()
+- bezierVertex()
+- translate()
+- rotate()
+- scale()
+- push()
+- pop()
+- frameRate()
+- frameCount
+- millis()
+- random()
+- randomSeed()
+- noise()
+- noiseSeed()
+- noiseDetail()
+- map()
+- lerp()
+- lerpColor()
+- constrain()
+- dist()
+- sin()
+- cos()
+- atan2()
+- radians()
+- degrees()
+- mouseX
+- mouseY
+- pmouseX
+- pmouseY
+- mousePressed()
+- keyPressed()
+- createVector()
+- p5.Vector
+- createGraphics()
+- loadImage()
+- loadPixels()
+- updatePixels()
+- createCapture()
+- createShader()
+- colorMode()
+- HSB
+- blendMode()
+- saveCanvas()
+- saveGif()
+- windowResized()
+- resizeCanvas()
+
+## Techniques
+- creative coding
+- generative art
+- generative design
+- algorithmic art
+- computational art
+- procedural generation
+- procedural animation
+- emergent behaviour
+- randomness
+- pseudorandom
+- random seed
+- Perlin noise
+- simplex noise
+- value noise
+- fractional Brownian motion
+- fBm
+- domain warping
+- flow field
+- vector field
+- particle system
+- physics engine
+- attractor
+- strange attractor
+- Lorenz attractor
+- L-system
+- Lindenmayer system
+- turtle graphics
+- recursion
+- fractal
+- Mandelbrot set
+- Julia set
+- Sierpiński triangle
+- Koch snowflake
+- cellular automata
+- Conway's Game of Life
+- Rule 30
+- reaction-diffusion
+- Gray-Scott model
+- boids
+- flocking
+- steering behaviours
+- agent-based modelling
+- circle packing
+- Voronoi diagram
+- Delaunay triangulation
+- convex hull
+- marching squares
+- marching cubes
+- metaballs
+- signed distance function
+- SDF
+- ray marching
+- ray tracing
+- path tracing
+- shader
+- fragment shader
+- vertex shader
+- uniform
+- varying
+- texture
+- framebuffer
+- feedback loop
+- post-processing
+- bloom
+- dithering
+- halftone
+- glitch art
+- datamoshing
+- pixel sorting
+- ASCII art
+- kinetic typography
+- variable fonts
+- data visualisation
+- sonification
+- audio-reactive
+- FFT
+- fast Fourier transform
+- amplitude
+- frequency
+- oscillator
+- envelope
+- ADSR
+- granular synthesis
+- sequencer
+- live coding
+- algorave
+- TOPLAP
+- projection mapping
+- video mapping
+- interactive installation
+- immersive experience
+- net art
+- creative technologist
+- plotter art
+- pen plotter
+- AxiDraw
+- G-code
+- trigonometry
+- polar coordinates
+- Cartesian coordinates
+- easing
+- easing functions
+- interpolation
+- tweening
+- seamless loop
+- frame rate
+- refresh rate
+- pixel density
+- anti-aliasing
+- colour palette
+- RGB
+- hex colour
+- gradient
+- blend mode
+- compositing
+- mask
+- alpha channel
+- transparency
+
+## Communities and events
+- The Coding Train
+- Processing Foundation
+- Genuary
+- CreativeApplications.Net
+- Eyeo Festival
+- Ars Electronica
+- Sónar+D
+- Resonate Festival
+- School for Poetic Computation
+- SFPC
+- Creative Computing Institute
+- UAL
+- Goldsmiths
+- Rhizome
+- fxhash
+- Art Blocks
+
+## Artists and authors
+- Casey Reas
+- Ben Fry
+- Lauren Lee McCarthy
+- Daniel Shiffman
+- Zach Lieberman
+- Golan Levin
+- Vera Molnár
+- Frieder Nake
+- Georg Nees
+- Manfred Mohr
+- Harold Cohen
+- AARON
+- Sol LeWitt
+- John Maeda
+- Lillian Schwartz
+- Ken Perlin
+- Inigo Quilez
+- Tyler Hobbs
+- Dmitri Cherniak
+- Matt DesLauriers
+- Anders Hoff
+- Marius Watz
+- Joshua Davis
+- Jared Tarbell
+- Memo Akten
+- Refik Anadol
+- Rafael Lozano-Hemmer
+- Ryoji Ikeda
+- teamLab
+- United Visual Artists
+- Universal Everything
+- Nervous System
+- Allison Parrish
+- Kyle McDonald
+- Olivia Jack
+- Alex McLean
+- Shelly Knotts
+- Saskia Freeke
+- Patrik Hübner

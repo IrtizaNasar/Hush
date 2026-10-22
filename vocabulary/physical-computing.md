@@ -1,0 +1,418 @@
+# Physical computing
+
+> Terms for teaching physical computing: boards, electronics, sensors, actuators, code and making. To use them, open Settings › Vocabulary in Hush and import this file.
+> One term per line, written as it should appear in a transcript.
+
+## Boards
+- microcontroller
+- single-board computer
+- development board
+- breakout board
+- shield
+- Arduino
+- Arduino Uno
+- Arduino Uno R4
+- Arduino Nano
+- Arduino Nano 33 BLE Sense
+- Arduino Nano ESP32
+- Arduino Mega
+- Arduino Leonardo
+- Arduino MKR
+- ESP32
+- ESP32-S3
+- ESP32-C3
+- ESP8266
+- NodeMCU
+- Raspberry Pi
+- Raspberry Pi 5
+- Raspberry Pi Zero
+- Raspberry Pi Pico
+- Pico W
+- RP2040
+- Teensy
+- Adafruit Feather
+- Circuit Playground Express
+- micro:bit
+- BBC micro:bit
+- Seeed Studio XIAO
+- Bela
+- Daisy Seed
+- LilyPad Arduino
+- Adafruit Flora
+- Makey Makey
+- Bare Conductive Touch Board
+- HAT
+
+## Electronics basics
+- voltage
+- current
+- resistance
+- Ohm's law
+- power
+- volt
+- amp
+- milliamp
+- ohm
+- kilohm
+- watt
+- series circuit
+- parallel circuit
+- short circuit
+- open circuit
+- ground
+- GND
+- VCC
+- 3.3V
+- 5V
+- logic level
+- logic level shifter
+- voltage divider
+- pull-up resistor
+- pull-down resistor
+- current-limiting resistor
+- decoupling capacitor
+- polarity
+- anode
+- cathode
+- datasheet
+- schematic
+- circuit diagram
+- multimeter
+- continuity test
+- oscilloscope
+- bench power supply
+- battery
+- LiPo battery
+- lithium polymer
+- 18650
+- coin cell
+- USB-C
+- barrel jack
+- voltage regulator
+- buck converter
+- boost converter
+- LDO regulator
+
+## Components
+- resistor
+- capacitor
+- electrolytic capacitor
+- ceramic capacitor
+- inductor
+- diode
+- flyback diode
+- Zener diode
+- LED
+- RGB LED
+- transistor
+- NPN transistor
+- PNP transistor
+- MOSFET
+- N-channel MOSFET
+- H-bridge
+- L298N
+- TB6612FNG
+- DRV8833
+- relay
+- solid-state relay
+- optocoupler
+- crystal oscillator
+- potentiometer
+- trimpot
+- rotary encoder
+- push button
+- tactile switch
+- toggle switch
+- slide switch
+- reed switch
+- breadboard
+- jumper wire
+- Dupont connector
+- header pins
+- perfboard
+- stripboard
+- protoboard
+- JST connector
+- terminal block
+- heat shrink
+
+## Sensors
+- sensor
+- photoresistor
+- LDR
+- light-dependent resistor
+- phototransistor
+- thermistor
+- temperature sensor
+- DHT11
+- DHT22
+- DS18B20
+- BME280
+- humidity sensor
+- piezo
+- piezo disc
+- microphone module
+- MAX4466
+- accelerometer
+- gyroscope
+- magnetometer
+- IMU
+- MPU-6050
+- LSM6DS3
+- BNO055
+- ultrasonic sensor
+- HC-SR04
+- time-of-flight sensor
+- VL53L0X
+- lidar
+- PIR sensor
+- motion sensor
+- infrared
+- IR receiver
+- flex sensor
+- force-sensitive resistor
+- FSR
+- load cell
+- HX711
+- capacitive touch
+- capacitive sensor
+- MPR121
+- soil moisture sensor
+- gas sensor
+- MQ-2
+- pulse sensor
+- heart rate sensor
+- EMG
+- EEG
+- GPS module
+- RFID
+- RC522
+- NFC
+- Hall effect sensor
+- colour sensor
+- TCS34725
+- gesture sensor
+- APDS-9960
+- camera module
+- ESP32-CAM
+- Kinect
+- Leap Motion
+
+## Actuators and outputs
+- actuator
+- servo
+- servo motor
+- continuous rotation servo
+- SG90
+- stepper motor
+- NEMA 17
+- A4988
+- DRV8825
+- DC motor
+- gear motor
+- vibration motor
+- solenoid
+- linear actuator
+- pump
+- fan
+- speaker
+- buzzer
+- piezo buzzer
+- NeoPixel
+- WS2812B
+- SK6812
+- APA102
+- DotStar
+- LED strip
+- LED matrix
+- seven-segment display
+- OLED display
+- SSD1306
+- LCD
+- 16x2 LCD
+- TFT display
+- e-ink display
+- e-paper
+- MAX7219
+- shift register
+- 74HC595
+- multiplexer
+- CD4051
+- nitinol
+- muscle wire
+- EL wire
+
+## Code
+- Arduino IDE
+- sketch
+- setup()
+- loop()
+- pinMode()
+- digitalWrite()
+- digitalRead()
+- analogRead()
+- analogWrite()
+- PWM
+- pulse-width modulation
+- duty cycle
+- ADC
+- analogue-to-digital converter
+- DAC
+- GPIO
+- interrupt
+- attachInterrupt()
+- debounce
+- millis()
+- delay()
+- state machine
+- Serial.begin()
+- Serial.println()
+- Serial Monitor
+- Serial Plotter
+- baud rate
+- library
+- bootloader
+- firmware
+- upload
+- compile
+- C++
+- CircuitPython
+- MicroPython
+- Thonny
+- PlatformIO
+- Visual Studio Code
+- Arduino Cloud
+- Firmata
+- Johnny-Five
+- Node-RED
+- map()
+- constrain()
+
+## Communication
+- serial communication
+- UART
+- I2C
+- SPI
+- SDA
+- SCL
+- MOSI
+- MISO
+- I2C address
+- USB
+- USB HID
+- HID
+- MIDI
+- MIDI over USB
+- OSC
+- Open Sound Control
+- DMX
+- Bluetooth
+- Bluetooth Low Energy
+- BLE
+- Wi-Fi
+- MQTT
+- HTTP
+- WebSocket
+- Web Serial
+- Web Bluetooth
+- WebUSB
+- p5.serialport
+- p5.webserial
+- LoRa
+- Zigbee
+- infrared remote
+
+## Making
+- soldering
+- soldering iron
+- solder
+- flux
+- desoldering
+- helping hands
+- wire stripper
+- enclosure
+- prototype
+- prototyping
+- 3D printing
+- 3D printer
+- PLA
+- PETG
+- TPU
+- FDM
+- resin printer
+- laser cutting
+- laser cutter
+- MDF
+- acrylic
+- plywood
+- CNC
+- CNC router
+- vinyl cutter
+- Fusion 360
+- Tinkercad
+- Rhino
+- Grasshopper
+- Blender
+- KiCad
+- Fritzing
+- Eagle
+- PCB
+- printed circuit board
+- Gerber file
+- JLCPCB
+- SMD
+- surface-mount
+- through-hole
+- e-textiles
+- conductive thread
+- conductive fabric
+- conductive ink
+- Velostat
+- copper tape
+- wearables
+- soft circuit
+- fab lab
+- makerspace
+- Instructables
+- Adafruit
+- SparkFun
+- Pimoroni
+- The Pi Hut
+
+## Interaction
+- physical computing
+- tangible interface
+- tangible user interface
+- interaction design
+- human-computer interaction
+- HCI
+- embodied interaction
+- haptics
+- haptic feedback
+- input
+- output
+- signal
+- noise
+- smoothing
+- calibration
+- threshold
+- mapping
+- sensor fusion
+- Internet of Things
+- IoT
+- smart object
+- interactive installation
+- kinetic sculpture
+- responsive environment
+- ubiquitous computing
+
+## People and places
+- Massimo Banzi
+- Tom Igoe
+- Dan O'Sullivan
+- Leah Buechley
+- Hannah Perner-Wilson
+- Kobakant
+- Limor Fried
+- NYU ITP
+- Hackaday
