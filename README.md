@@ -51,8 +51,8 @@ The first time you open Hush, the Welcome window walks you through seven steps. 
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/welcome.png?v=1fd199e9" alt="The first step of Welcome: the Hush mark, Welcome to Hush, a line saying transcripts of your calls, files, links and dictation are made on this Mac, a small animation of the command bar opening, Nothing leaves your Mac, and a Get Started button." width="360"><br><b>1. Welcome</b></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/private-by-design.png?v=b1e34c51" alt="The Private by design step: a green shield, Nothing of yours leaves this Mac, and you can check for yourself; then three cards: No analytics, by design; Every connection, listed, with a small 30-day strip of coloured dots, one day lit with the label 2 Oct, online once; and Shared with no app unless you say, Claude (MCP) only if you turn it on, with every read listed; and a Continue button." width="360"><br><b>2. Private by design</b></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/welcome.png?v=ad22eb5e" alt="The first step of Welcome: the Hush mark, Welcome to Hush, a line saying transcripts of your calls, files, links and dictation are made on this Mac, a small animation of the command bar opening, Nothing leaves your Mac, and a Get Started button." width="360"><br><b>1. Welcome</b></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/private-by-design.png?v=0941b991" alt="The Private by design step: a green shield, Nothing of yours leaves this Mac, and you can check for yourself; then three cards: No analytics, by design; Every connection, listed, with a small 30-day strip of coloured dots, one day lit with the label 2 Oct, online once; and Shared with no app unless you say, Claude (MCP) only if you turn it on, with every read listed; and a Continue button." width="360"><br><b>2. Private by design</b></td>
 </tr>
 </table>
 
@@ -62,8 +62,8 @@ The first time you open Hush, the Welcome window walks you through seven steps. 
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/permissions.png?v=132517cf" alt="The Let Hush listen step: It hears audio only, never your screen, then rows for Microphone and System audio, both tagged Required, and Accessibility, tagged Optional, each with an Allow button, and a Continue button." width="360"><br><b>3. Let Hush listen</b></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/models.png?v=59a38926" alt="The Choose your models step: two speech model cards, Whisper Large v3 Turbo marked Recommended and Whisper Medium, then two notes model cards, Qwen3 8B and Qwen3 4B, beside a switch for notes, a line with the size of the download and the space free on this Mac, and a Download 3.15 GB button." width="360"><br><b>4. Choose your models</b></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/permissions.png?v=7873cb3e" alt="The Let Hush listen step: It hears audio only, never your screen, then rows for Microphone and System audio, both tagged Required, and Accessibility, tagged Optional, each with an Allow button, and a Continue button." width="360"><br><b>3. Let Hush listen</b></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/models.png?v=6f2f2d21" alt="The Choose your models step: two speech model cards, Whisper Large v3 Turbo marked Recommended and Whisper Medium, then two notes model cards, Qwen3 8B and Qwen3 4B, beside a switch for notes, a line with the size of the download and the space free on this Mac, and a Download 3.15 GB button." width="360"><br><b>4. Choose your models</b></td>
 </tr>
 </table>
 
@@ -91,8 +91,8 @@ Press **Download**: about 3.15 GB with the recommended models. Don't want notes?
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/setup-ready.png?v=70376d11" alt="The setting up step, finished: a green ring closed round the Hush mark, Hush is ready, Everything it needs is downloaded, and Press ⌃⇧Space to open the command bar, from any app, above a Continue button." width="360"><br><b>5. Setting up Hush</b></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/shortcuts.png?v=0125deeb" alt="The Your shortcuts step: Use Hush from any app, press one to try it. The Command bar row, Search, record or dictate, with the keys ⌃⇧Space, and the Dictation row, Hold, speak, let go, with a switch and the keys ⌃⌥D, then a Continue button." width="360"><br><b>6. Your shortcuts</b></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/setup-ready.png?v=6c79ee99" alt="The setting up step, finished: a green ring closed round the Hush mark, Hush is ready, Everything it needs is downloaded, and Press ⌃⇧Space to open the command bar, from any app, above a Continue button." width="360"><br><b>5. Setting up Hush</b></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/shortcuts.png?v=180426ea" alt="The Your shortcuts step: Use Hush from any app, press one to try it. The Command bar row, Search, record or dictate, with the keys ⌃⇧Space, and the Dictation row, Hold, speak, let go, with a switch and the keys ⌃⌥D, then a Continue button." width="360"><br><b>6. Your shortcuts</b></td>
 </tr>
 </table>
 
@@ -106,7 +106,7 @@ Press **Download**: about 3.15 GB with the recommended models. Don't want notes?
 
 **6. Your shortcuts.** Two shortcuts work from any app: ⌃⇧Space opens the command bar, and ⌃⌥D dictates. Dictation has its own switch. Press a shortcut to try it; to change one, click it and press the new keys.
 
-<p align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/ready.png?v=6032d9d1" alt="The You're all set step: Here's how to reach Hush, with rows for the command bar and its keys, the library, calls, and dictation with its keys, and an Open Library button." width="360"><br><b>7. You're all set</b></p>
+<p align="center"><img src="https://raw.githubusercontent.com/IrtizaNasar/Hush/main/docs/screenshots/ready.png?v=9941f7ce" alt="The You're all set step: Here's how to reach Hush, with rows for the command bar and its keys, the library, calls, and dictation with its keys, and an Open Library button." width="360"><br><b>7. You're all set</b></p>
 
 **7. You're all set.** Hush shows where to reach it: the command bar, the library, calls and dictation. Press **Open Library**.
 
