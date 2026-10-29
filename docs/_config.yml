@@ -1,0 +1,8 @@
+# GitHub Pages serves this folder at https://irtizanasar.github.io/Hush/ (Settings › Pages, branch main, folder /docs).
+# index.md renders README.md, the user guide, so the same file reads on GitHub and on the site.
+title: Hush user guide
+description: Everything Hush does, from recording calls to keyboard shortcuts.
+theme: jekyll-theme-primer
+exclude:
+  - github-about.md
+  - README.md
